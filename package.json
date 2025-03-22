@@ -1,0 +1,21 @@
+{
+  "name": "Dark-sms-bomber",
+  "version": "1.0.0",
+  "description": "Discord SMS bomber botu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Whisky Lorean",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "crypto": "^1.0.1",
+    "discord.js": "^13.2.0",
+    "glob": "^7.1.7",
+    "mongoose": "^6.0.2",
+    "node-fetch": "^3.2.6",
+    "parse-ms": "^2.1.0",
+    "whisky.db": "^0.1.5"
+  }
+}
